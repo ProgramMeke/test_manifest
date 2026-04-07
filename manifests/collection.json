@@ -1,0 +1,13 @@
+{
+  "id" : "https://ProgramMeke.github.io/test_manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ProgramMeke/test_manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ProgramMeke.github.io/test_manifest/manifests/manifest2.json",
+    "label" : "This is a test manifest of a historical map"
+  } ]
+}
