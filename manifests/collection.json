@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ProgramMeke.github.io/test_manifest/manifests/manifest2.json",
     "label" : "This is a test manifest of a historical map"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ProgramMeke.github.io/test_manifest/manifests/manifest2",
+    "label" : "This is a test manifest of a historical map"
   } ]
 }
